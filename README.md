@@ -14,3 +14,5 @@ Twitch Chat API that pulls all of the messages from a desired list of channels.
 2. edit `app.js` to include desired channels
 3. paste link to webpage into Browser Source
 
+### Example
+https://twitchchatwidget.000webhostapp.com/
